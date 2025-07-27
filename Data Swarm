@@ -1,0 +1,15 @@
+Data Swarm — Smart Anomaly Detection Across Distributed Systems
+
+Summary:
+Modern systems generate massive volumes of logs, metrics, and transaction data across distributed microservices — making it difficult to detect 
+rare yet critical failures in real time. Data Swarm is an intelligent anomaly detection engine that continuously scans across these silos using 
+unsupervised machine learning and statistical models.
+
+By identifying subtle deviations and surfacing alerts early, it helps prevent fraud attempts, system outages, and customer-impacting delays — enabling 
+resilient, proactive system monitoring at scale.
+
+
+Alternatice Title: 
+
+WhisperWatch — Detect Anomalies Before They Scream
+
