@@ -1,0 +1,23 @@
+Analyst Copilot — GenAI Assistant to “Talk to Your Data” in Natural Language
+
+Summary:
+In today’s data-driven workflows, analysts and business users often face delays due to dependence on technical teams for querying enterprise 
+datasets or generating dashboards. This idea proposes a GenAI-powered assistant that enables users to interact with structured data using plain 
+English — effectively "talking to their data".
+
+By typing natural queries such as “Show me fraud transactions in the last 6 months by region”, users receive SQL-generated responses, visualizations, 
+and business summaries in real time. The solution combines large language models (LLMs) with secure data connectors to ensure accurate and explainable results.
+
+This approach enhances productivity, reduces the time spent on ad-hoc requests, and makes data access democratized across business functions — aligning 
+with BoA’s goal of data empowerment and intelligent automation.
+
+
+Analyst Copilot — A GenAI Assistant to “Talk to Your Data” in Natural Language
+
+Summary:
+In data-driven organizations, business users often rely on technical teams for querying databases or generating dashboards — leading to delays and bottlenecks. 
+Analyst Copilot introduces a GenAI-powered assistant that enables users to ask questions in natural language and receive real-time SQL-generated responses, 
+visualizations, and summaries.
+
+By bridging large language models with secure data sources, the tool democratizes data access, enhances productivity, and empowers users to gain insights 
+independently — without needing to write a single line of code.
